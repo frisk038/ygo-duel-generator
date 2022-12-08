@@ -1,0 +1,1 @@
+# ygo-duel-generator
