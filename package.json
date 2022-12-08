@@ -1,0 +1,21 @@
+{
+  "name": "ygo-duel",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "setimmediate": "^1.0.5",
+    "vue": "^3.2.45",
+    "vue-webrtc": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "vite": "^3.2.4",
+    "vue-webrtc": "^3.0.1"
+  }
+}
